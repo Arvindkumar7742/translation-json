@@ -1,3 +1,9 @@
 {
-  "ans":"aks"
+    "all": "Alle",
+    "music": "Musik",
+    "liked_songs": "Lieblingslieder",
+    "hiphop_tamhiza": "Hiphop Tamiza",
+    "top_artist_heading": "Ihre Top-Künstler",
+    "new_release_heading": "Neuerscheinungen",
+    "recently_played": "Kürzlich gespielt"
 }
