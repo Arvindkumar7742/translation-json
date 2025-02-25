@@ -16,5 +16,11 @@
     "tracks": "गाने",
     "artists": "कलाकार",
     "albums": "एल्बम",
-    "playlists": "प्लेलिस्ट"
+    "playlists": "प्लेलिस्ट",
+    "empty_tracks": "कोई गाने नहीं मिले",
+    "empty_albums": "कोई एल्बम नहीं मिले",
+    "empty_playlists": "कोई प्लेलिस्ट नहीं मिली",
+    "empty_artists": "कोई कलाकार नहीं मिले",
+    "no_recent_activity": "कोई हालिया गतिविधि नहीं",
+    "edit": "संपादित करें"
 }
