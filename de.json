@@ -16,5 +16,11 @@
     "tracks": "Titel",
     "artists": "Künstler",
     "albums": "Alben",
-    "playlists": "Wiedergabelisten"
+    "playlists": "Wiedergabelisten",
+    "empty_tracks": "Keine Titel gefunden",
+    "empty_albums": "Keine Alben gefunden",
+    "empty_playlists": "Keine Wiedergabelisten gefunden",
+    "empty_artists": "Keine Künstler gefunden",
+    "no_recent_activity": "Keine kürzlichen Aktivitäten",
+    "edit": "Bearbeiten"
 }
