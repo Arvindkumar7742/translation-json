@@ -1,9 +1,20 @@
 {
+    "home": "होम",
+    "search": "खोजें",
+    "your_library": "आपकी लाइब्रेरी",
     "all": "सभी",
     "music": "संगीत",
     "liked_songs": "पसंदीदा गाने",
-    "hiphop_tamhiza": "हिपहॉप ताम्हिज़ा",
+    "hiphop_tamhiza": "हिपहॉप तमिज़ा",
     "top_artist_heading": "आपके शीर्ष कलाकार",
-    "new_release_heading": "नवीनतम रिलीज़",
-    "recently_played": "हाल ही में सुने गए"
+    "new_release_heading": "नई रिलीज़",
+    "recently_played": "हाल ही में बजाया गया",
+    "followers": "अनुयायी",
+    "following": "अनुसरण कर रहे हैं",
+    "top_tracks_heading": "शीर्ष ट्रैक",
+    "input_placeholder_text": "आप क्या सुनना चाहते हैं?",
+    "tracks": "गाने",
+    "artists": "कलाकार",
+    "albums": "एल्बम",
+    "playlists": "प्लेलिस्ट"
 }
