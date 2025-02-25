@@ -17,4 +17,8 @@
     "artists":"Artists",
     "albums":"Albums",
     "playlists":"Playlists",
+    "empty_tracks":"No tracks found",
+    "empty_albums":"No albums found",
+    "empty_playlists":"No playlists found",
+    "empty_artists":"No artists found",
 }
