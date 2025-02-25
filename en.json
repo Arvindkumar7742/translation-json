@@ -1,9 +1,20 @@
 {
+    "home":"Home",
+    "search":"Search",
+    "your_library":"Your Library",
     "all": "All",
     "music": "Music",
     "liked_songs": "Liked Songs",
     "hiphop_tamhiza": "Hiphop Tamhiza",
     "top_artist_heading": "Your Top Artists",
     "new_release_heading": "New Releases",
-    "recently_played": "Recently Played"
+    "recently_played": "Recently Played",
+    "followers":"followers",
+    "following":"following",
+    "top_tracks_heading":"Top Tracks",
+    "input_placeholder_text":"What do you want to listen for?",
+    "tracks":"Tracks",
+    "artists":"Artists",
+    "albums":"Albums",
+    "playlists":"Playlists",
 }
