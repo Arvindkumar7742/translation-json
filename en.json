@@ -21,4 +21,6 @@
     "empty_albums":"No albums found",
     "empty_playlists":"No playlists found",
     "empty_artists":"No artists found",
+    "no_recent_activity":"No Recent Activity",
+    "edit":"Edit"
 }
