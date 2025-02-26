@@ -9,8 +9,8 @@
     "top_artist_heading": "Your Top Artists",
     "new_release_heading": "New Releases",
     "recently_played": "Recently Played",
-    "followers":"followers",
-    "following":"following",
+    "followers":"Followers",
+    "following":"Following",
     "top_tracks_heading":"Top Tracks",
     "input_placeholder_text":"What do you want to listen for?",
     "tracks":"Tracks",
@@ -22,5 +22,10 @@
     "empty_playlists":"No playlists found",
     "empty_artists":"No artists found",
     "no_recent_activity":"No Recent Activity",
-    "edit":"Edit"
+    "edit":"Edit",
+    "search_like_input_placeholder":"Find in Liked songs",
+    "sort":"Sort",
+    "songs":"Songs",
+    "top_songs":"Top Songs",
+    "album_hit":"Album Hit",
 }
