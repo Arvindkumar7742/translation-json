@@ -27,5 +27,7 @@
   "sort": "Sort",
   "songs": "Songs",
   "top_songs": "Top Songs",
-  "album_hit": "Album Hit"
+  "album_hit": "Album Hit",
+  "sign_in_heading":"Millions of Songs Free on Spotify!",
+  "sign_in_btn":"Sign in with Spotify"
 }
