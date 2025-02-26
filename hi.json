@@ -22,5 +22,10 @@
     "empty_playlists": "कोई प्लेलिस्ट नहीं मिली",
     "empty_artists": "कोई कलाकार नहीं मिले",
     "no_recent_activity": "कोई हालिया गतिविधि नहीं",
-    "edit": "संपादित करें"
+    "edit": "संपादित करें",
+    "search_like_input_placeholder": "पसंदीदा गानों में खोजें",
+    "sort": "क्रमबद्ध करें",
+    "songs": "गाने",
+    "top_songs": "शीर्ष गाने",
+    "album_hit": "एल्बम हिट"
 }
