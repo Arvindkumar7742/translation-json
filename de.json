@@ -22,5 +22,10 @@
     "empty_playlists": "Keine Wiedergabelisten gefunden",
     "empty_artists": "Keine Künstler gefunden",
     "no_recent_activity": "Keine kürzlichen Aktivitäten",
-    "edit": "Bearbeiten"
+    "edit": "Bearbeiten",
+    "search_like_input_placeholder": "In Lieblingsliedern suchen",
+    "sort": "Sortieren",
+    "songs": "Lieder",
+    "top_songs": "Top-Lieder",
+    "album_hit": "Album-Hit"
 }
