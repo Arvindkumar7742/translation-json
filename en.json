@@ -32,5 +32,7 @@
   "sign_in_btn":"Sign in with Spotify",
   "hindi":"Hindi",
   "english":"English",
-  "german":"German"
+  "german":"German",
+  "settings":"Settings",
+  "setting_heading":"Choose your language"
 }
